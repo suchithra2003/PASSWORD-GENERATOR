@@ -1,2 +1,0 @@
-# PASSWORD-GENERATOR
-Using Java
